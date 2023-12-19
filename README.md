@@ -1,20 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <!-- Add Bootstrap CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #343a40; /* Dark background color */
-      overflow: hidden; /* Prevents horizontal scrollbar */
-      animation: backgroundAnimation 30s infinite linear; /* Background animation */
-      color: #ffffff; /* White text color */
-    }
+
 
     @keyframes backgroundAnimation {
       0% {
